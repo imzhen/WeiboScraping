@@ -7,14 +7,14 @@
 		revision="1.0"
 		conf="default"
 		confs="default"
-		date="20161227143245"/>
+		date="20161227213607"/>
 	<dependencies>
 		<module organisation="org.scala-sbt" name="sbt">
 			<revision name="0.13.13" status="release" pubdate="20161028130837" resolver="sbt-chain" artresolver="sbt-chain" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="36">
 				<metadata-artifact status="no" details="" size="1455" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/sbt/ivy-0.13.13.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/sbt/0.13.13/ivys/ivy.xml"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.13.13" rev-constraint-default="0.13.13" rev-constraint-dynamic="0.13.13" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="sbt" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="3556" time="1994" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/sbt/srcs/sbt-0.13.13-sources.jar">
+					<artifact name="sbt" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="3556" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/sbt/srcs/sbt-0.13.13-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/sbt/0.13.13/srcs/sbt-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -36,7 +36,7 @@
 				<metadata-artifact status="no" details="" size="2550" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/main/ivy-0.13.13.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/main/0.13.13/ivys/ivy.xml"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.13.13" rev-constraint-default="0.13.13" rev-constraint-dynamic="0.13.13" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="main" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="178622" time="3254" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/main/srcs/main-0.13.13-sources.jar">
+					<artifact name="main" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="178622" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/main/srcs/main-0.13.13-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/main/0.13.13/srcs/main-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -47,7 +47,7 @@
 				<metadata-artifact status="no" details="" size="1652" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/logic/ivy-0.13.13.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/logic/0.13.13/ivys/ivy.xml"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.13.13" rev-constraint-default="0.13.13" rev-constraint-dynamic="0.13.13" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="logic" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="5034" time="1952" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/logic/srcs/logic-0.13.13-sources.jar">
+					<artifact name="logic" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="5034" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/logic/srcs/logic-0.13.13-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/logic/0.13.13/srcs/logic-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -58,7 +58,7 @@
 				<metadata-artifact status="no" details="" size="2699" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/main-settings/ivy-0.13.13.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/main-settings/0.13.13/ivys/ivy.xml"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.13.13" rev-constraint-default="0.13.13" rev-constraint-dynamic="0.13.13" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="main-settings" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="31582" time="2455" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/main-settings/srcs/main-settings-0.13.13-sources.jar">
+					<artifact name="main-settings" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="31582" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/main-settings/srcs/main-settings-0.13.13-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/main-settings/0.13.13/srcs/main-settings-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -69,7 +69,7 @@
 				<metadata-artifact status="no" details="" size="2375" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/command/ivy-0.13.13.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/command/0.13.13/ivys/ivy.xml"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.13.13" rev-constraint-default="0.13.13" rev-constraint-dynamic="0.13.13" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="command" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="21182" time="2105" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/command/srcs/command-0.13.13-sources.jar">
+					<artifact name="command" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="21182" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/command/srcs/command-0.13.13-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/command/0.13.13/srcs/command-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -81,7 +81,7 @@
 				<metadata-artifact status="no" details="" size="2559" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/template-resolver/ivy-0.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-sbt/template-resolver/0.1/template-resolver-0.1.pom"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.1" rev-constraint-default="0.1" rev-constraint-dynamic="0.1" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="template-resolver" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="1113" time="93" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/template-resolver/srcs/template-resolver-0.1-sources.jar">
+					<artifact name="template-resolver" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="1113" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/template-resolver/srcs/template-resolver-0.1-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-sbt/template-resolver/0.1/template-resolver-0.1-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -92,7 +92,7 @@
 				<metadata-artifact status="no" details="" size="1679" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/apply-macro/ivy-0.13.13.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/apply-macro/0.13.13/ivys/ivy.xml"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.13.13" rev-constraint-default="0.13.13" rev-constraint-dynamic="0.13.13" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="apply-macro" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="13450" time="2349" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/apply-macro/srcs/apply-macro-0.13.13-sources.jar">
+					<artifact name="apply-macro" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="13450" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/apply-macro/srcs/apply-macro-0.13.13-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/apply-macro/0.13.13/srcs/apply-macro-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -103,7 +103,7 @@
 				<metadata-artifact status="no" details="" size="3071" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/actions/ivy-0.13.13.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/actions/0.13.13/ivys/ivy.xml"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.13.13" rev-constraint-default="0.13.13" rev-constraint-dynamic="0.13.13" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="actions" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="30771" time="2297" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/actions/srcs/actions-0.13.13-sources.jar">
+					<artifact name="actions" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="30771" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/actions/srcs/actions-0.13.13-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/actions/0.13.13/srcs/actions-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -114,7 +114,7 @@
 				<metadata-artifact status="no" details="" size="1782" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/testing/ivy-0.13.13.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/testing/0.13.13/ivys/ivy.xml"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.13.13" rev-constraint-default="0.13.13" rev-constraint-dynamic="0.13.13" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="testing" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="10160" time="2181" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/testing/srcs/testing-0.13.13-sources.jar">
+					<artifact name="testing" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="10160" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/testing/srcs/testing-0.13.13-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/testing/0.13.13/srcs/testing-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -125,7 +125,7 @@
 				<metadata-artifact status="no" details="" size="1292" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/test-agent/ivy-0.13.13.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/test-agent/0.13.13/ivys/ivy.xml"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.13.13" rev-constraint-default="0.13.13" rev-constraint-dynamic="0.13.13" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="test-agent" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="6351" time="1953" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/test-agent/srcs/test-agent-0.13.13-sources.jar">
+					<artifact name="test-agent" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="6351" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/test-agent/srcs/test-agent-0.13.13-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/test-agent/0.13.13/srcs/test-agent-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -148,7 +148,7 @@
 				<metadata-artifact status="no" details="" size="1372" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/tracking/ivy-0.13.13.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/tracking/0.13.13/ivys/ivy.xml"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.13.13" rev-constraint-default="0.13.13" rev-constraint-dynamic="0.13.13" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="tracking" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="5618" time="2361" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/tracking/srcs/tracking-0.13.13-sources.jar">
+					<artifact name="tracking" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="5618" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/tracking/srcs/tracking-0.13.13-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/tracking/0.13.13/srcs/tracking-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -159,7 +159,7 @@
 				<metadata-artifact status="no" details="" size="1688" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/cache/ivy-0.13.13.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/cache/0.13.13/ivys/ivy.xml"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.13.13" rev-constraint-default="0.13.13" rev-constraint-dynamic="0.13.13" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="cache" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="7076" time="2306" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/cache/srcs/cache-0.13.13-sources.jar">
+					<artifact name="cache" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="7076" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/cache/srcs/cache-0.13.13-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/cache/0.13.13/srcs/cache-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -170,7 +170,7 @@
 				<metadata-artifact status="no" details="" size="1973" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/task-system/ivy-0.13.13.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/task-system/0.13.13/ivys/ivy.xml"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.13.13" rev-constraint-default="0.13.13" rev-constraint-dynamic="0.13.13" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="task-system" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="8984" time="2457" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/task-system/srcs/task-system-0.13.13-sources.jar">
+					<artifact name="task-system" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="8984" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/task-system/srcs/task-system-0.13.13-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/task-system/0.13.13/srcs/task-system-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -181,7 +181,7 @@
 				<metadata-artifact status="no" details="" size="1651" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/tasks/ivy-0.13.13.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/tasks/0.13.13/ivys/ivy.xml"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.13.13" rev-constraint-default="0.13.13" rev-constraint-dynamic="0.13.13" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="tasks" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="11944" time="2176" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/tasks/srcs/tasks-0.13.13-sources.jar">
+					<artifact name="tasks" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="11944" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/tasks/srcs/tasks-0.13.13-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/tasks/0.13.13/srcs/tasks-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -192,7 +192,7 @@
 				<metadata-artifact status="no" details="" size="1854" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/run/ivy-0.13.13.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/run/0.13.13/ivys/ivy.xml"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.13.13" rev-constraint-default="0.13.13" rev-constraint-dynamic="0.13.13" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="run" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="17700" time="2902" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/run/srcs/run-0.13.13-sources.jar">
+					<artifact name="run" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="17700" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/run/srcs/run-0.13.13-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/run/0.13.13/srcs/run-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -203,7 +203,7 @@
 				<metadata-artifact status="no" details="" size="1439" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/compiler-ivy-integration/ivy-0.13.13.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/compiler-ivy-integration/0.13.13/ivys/ivy.xml"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.13.13" rev-constraint-default="0.13.13" rev-constraint-dynamic="0.13.13" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="compiler-ivy-integration" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="2267" time="2243" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/compiler-ivy-integration/srcs/compiler-ivy-integration-0.13.13-sources.jar">
+					<artifact name="compiler-ivy-integration" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="2267" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/compiler-ivy-integration/srcs/compiler-ivy-integration-0.13.13-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/compiler-ivy-integration/0.13.13/srcs/compiler-ivy-integration-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -214,7 +214,7 @@
 				<metadata-artifact status="no" details="" size="2266" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/ivy/ivy-0.13.13.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/ivy/0.13.13/ivys/ivy.xml"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.13.13" rev-constraint-default="0.13.13" rev-constraint-dynamic="0.13.13" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="ivy" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="115381" time="3755" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/ivy/srcs/ivy-0.13.13-sources.jar">
+					<artifact name="ivy" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="115381" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/ivy/srcs/ivy-0.13.13-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/ivy/0.13.13/srcs/ivy-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -226,7 +226,7 @@
 				<metadata-artifact status="no" details="" size="3700" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/serialization_2.10/ivy-0.1.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-sbt/serialization_2.10/0.1.2/serialization_2.10-0.1.2.pom"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.1.2" rev-constraint-default="0.1.2" rev-constraint-dynamic="0.1.2" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="serialization_2.10" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="26177" time="329" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/serialization_2.10/srcs/serialization_2.10-0.1.2-sources.jar">
+					<artifact name="serialization_2.10" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="26177" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/serialization_2.10/srcs/serialization_2.10-0.1.2-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-sbt/serialization_2.10/0.1.2/serialization_2.10-0.1.2-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -297,7 +297,7 @@
 				<metadata-artifact status="no" details="" size="3336" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-lang.modules/scala-pickling_2.10/ivy-0.10.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/modules/scala-pickling_2.10/0.10.1/scala-pickling_2.10-0.10.1.pom"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.10.1" rev-constraint-default="0.10.1" rev-constraint-dynamic="0.10.1" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="scala-pickling_2.10" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="71570" time="128" location="/Users/Elliott/.ivy2/cache/org.scala-lang.modules/scala-pickling_2.10/srcs/scala-pickling_2.10-0.10.1-sources.jar">
+					<artifact name="scala-pickling_2.10" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="71570" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-lang.modules/scala-pickling_2.10/srcs/scala-pickling_2.10-0.10.1-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/modules/scala-pickling_2.10/0.10.1/scala-pickling_2.10-0.10.1-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -321,7 +321,7 @@
 				<metadata-artifact status="no" details="" size="3103" time="0" location="/Users/Elliott/.ivy2/cache/com.jcraft/jsch/ivy-0.1.50.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/jcraft/jsch/0.1.50/jsch-0.1.50.pom"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.1.50" rev-constraint-default="0.1.50" rev-constraint-dynamic="0.1.50" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="jsch" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="243733" time="390" location="/Users/Elliott/.ivy2/cache/com.jcraft/jsch/srcs/jsch-0.1.50-sources.jar">
+					<artifact name="jsch" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="243733" time="0" location="/Users/Elliott/.ivy2/cache/com.jcraft/jsch/srcs/jsch-0.1.50-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/jcraft/jsch/0.1.50/jsch-0.1.50-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -333,7 +333,7 @@
 				<metadata-artifact status="no" details="" size="3556" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt.ivy/ivy/ivy-2.3.0-sbt-2cf13e211b2cb31f0d3b317289dca70eca3362f6.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-sbt/ivy/ivy/2.3.0-sbt-2cf13e211b2cb31f0d3b317289dca70eca3362f6/ivy-2.3.0-sbt-2cf13e211b2cb31f0d3b317289dca70eca3362f6.pom"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="2.3.0-sbt-2cf13e211b2cb31f0d3b317289dca70eca3362f6" rev-constraint-default="2.3.0-sbt-2cf13e211b2cb31f0d3b317289dca70eca3362f6" rev-constraint-dynamic="2.3.0-sbt-2cf13e211b2cb31f0d3b317289dca70eca3362f6" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="ivy" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="886468" time="584" location="/Users/Elliott/.ivy2/cache/org.scala-sbt.ivy/ivy/srcs/ivy-2.3.0-sbt-2cf13e211b2cb31f0d3b317289dca70eca3362f6-sources.jar">
+					<artifact name="ivy" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="886468" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt.ivy/ivy/srcs/ivy-2.3.0-sbt-2cf13e211b2cb31f0d3b317289dca70eca3362f6-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-sbt/ivy/ivy/2.3.0-sbt-2cf13e211b2cb31f0d3b317289dca70eca3362f6/ivy-2.3.0-sbt-2cf13e211b2cb31f0d3b317289dca70eca3362f6-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -344,7 +344,7 @@
 				<metadata-artifact status="no" details="" size="1171" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/cross/ivy-0.13.13.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/cross/0.13.13/ivys/ivy.xml"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.13.13" rev-constraint-default="0.13.13" rev-constraint-dynamic="0.13.13" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="cross" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="247" time="2008" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/cross/srcs/cross-0.13.13-sources.jar">
+					<artifact name="cross" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="247" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/cross/srcs/cross-0.13.13-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/cross/0.13.13/srcs/cross-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -355,7 +355,7 @@
 				<metadata-artifact status="no" details="" size="1732" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/compiler-integration/ivy-0.13.13.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/compiler-integration/0.13.13/ivys/ivy.xml"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.13.13" rev-constraint-default="0.13.13" rev-constraint-dynamic="0.13.13" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="compiler-integration" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="12475" time="2614" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/compiler-integration/srcs/compiler-integration-0.13.13-sources.jar">
+					<artifact name="compiler-integration" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="12475" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/compiler-integration/srcs/compiler-integration-0.13.13-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/compiler-integration/0.13.13/srcs/compiler-integration-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -366,7 +366,7 @@
 				<metadata-artifact status="no" details="" size="1786" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/persist/ivy-0.13.13.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/persist/0.13.13/ivys/ivy.xml"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.13.13" rev-constraint-default="0.13.13" rev-constraint-dynamic="0.13.13" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="persist" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="11197" time="2228" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/persist/srcs/persist-0.13.13-sources.jar">
+					<artifact name="persist" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="11197" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/persist/srcs/persist-0.13.13-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/persist/0.13.13/srcs/persist-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -388,7 +388,7 @@
 				<metadata-artifact status="no" details="" size="2295" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/compile/ivy-0.13.13.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/compile/0.13.13/ivys/ivy.xml"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.13.13" rev-constraint-default="0.13.13" rev-constraint-dynamic="0.13.13" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="compile" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="26730" time="3510" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/compile/srcs/compile-0.13.13-sources.jar">
+					<artifact name="compile" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="26730" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/compile/srcs/compile-0.13.13-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/compile/0.13.13/srcs/compile-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -399,7 +399,7 @@
 				<metadata-artifact status="no" details="" size="1995" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/incremental-compiler/ivy-0.13.13.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/incremental-compiler/0.13.13/ivys/ivy.xml"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.13.13" rev-constraint-default="0.13.13" rev-constraint-dynamic="0.13.13" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="incremental-compiler" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="46881" time="3171" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/incremental-compiler/srcs/incremental-compiler-0.13.13-sources.jar">
+					<artifact name="incremental-compiler" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="46881" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/incremental-compiler/srcs/incremental-compiler-0.13.13-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/incremental-compiler/0.13.13/srcs/incremental-compiler-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -410,7 +410,7 @@
 				<metadata-artifact status="no" details="" size="1681" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/relation/ivy-0.13.13.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/relation/0.13.13/ivys/ivy.xml"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.13.13" rev-constraint-default="0.13.13" rev-constraint-dynamic="0.13.13" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="relation" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="2682" time="2180" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/relation/srcs/relation-0.13.13-sources.jar">
+					<artifact name="relation" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="2682" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/relation/srcs/relation-0.13.13-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/relation/0.13.13/srcs/relation-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -421,7 +421,7 @@
 				<metadata-artifact status="no" details="" size="1663" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/api/ivy-0.13.13.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/api/0.13.13/ivys/ivy.xml"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.13.13" rev-constraint-default="0.13.13" rev-constraint-dynamic="0.13.13" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="api" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="25385" time="2597" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/api/srcs/api-0.13.13-sources.jar">
+					<artifact name="api" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="25385" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/api/srcs/api-0.13.13-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/api/0.13.13/srcs/api-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -432,7 +432,7 @@
 				<metadata-artifact status="no" details="" size="1778" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/classfile/ivy-0.13.13.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/classfile/0.13.13/ivys/ivy.xml"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.13.13" rev-constraint-default="0.13.13" rev-constraint-dynamic="0.13.13" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="classfile" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="8556" time="2224" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/classfile/srcs/classfile-0.13.13-sources.jar">
+					<artifact name="classfile" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="8556" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/classfile/srcs/classfile-0.13.13-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/classfile/0.13.13/srcs/classfile-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -443,7 +443,7 @@
 				<metadata-artifact status="no" details="" size="1762" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/logging/ivy-0.13.13.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/logging/0.13.13/ivys/ivy.xml"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.13.13" rev-constraint-default="0.13.13" rev-constraint-dynamic="0.13.13" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="logging" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="15355" time="2001" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/logging/srcs/logging-0.13.13-sources.jar">
+					<artifact name="logging" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="15355" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/logging/srcs/logging-0.13.13-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/logging/0.13.13/srcs/logging-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -454,7 +454,7 @@
 				<metadata-artifact status="no" details="" size="1257" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/process/ivy-0.13.13.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/process/0.13.13/ivys/ivy.xml"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.13.13" rev-constraint-default="0.13.13" rev-constraint-dynamic="0.13.13" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="process" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="10010" time="2046" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/process/srcs/process-0.13.13-sources.jar">
+					<artifact name="process" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="10010" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/process/srcs/process-0.13.13-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/process/0.13.13/srcs/process-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -465,7 +465,7 @@
 				<metadata-artifact status="no" details="" size="1849" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/completion/ivy-0.13.13.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/completion/0.13.13/ivys/ivy.xml"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.13.13" rev-constraint-default="0.13.13" rev-constraint-dynamic="0.13.13" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="completion" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="28306" time="2265" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/completion/srcs/completion-0.13.13-sources.jar">
+					<artifact name="completion" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="28306" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/completion/srcs/completion-0.13.13-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/completion/0.13.13/srcs/completion-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -477,7 +477,7 @@
 				<metadata-artifact status="no" details="" size="4449" time="0" location="/Users/Elliott/.ivy2/cache/jline/jline/ivy-2.13.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/jline/jline/2.13/jline-2.13.pom"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="2.13" rev-constraint-default="2.13" rev-constraint-dynamic="2.13" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="jline" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="109845" time="176" location="/Users/Elliott/.ivy2/cache/jline/jline/srcs/jline-2.13-sources.jar">
+					<artifact name="jline" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="109845" time="0" location="/Users/Elliott/.ivy2/cache/jline/jline/srcs/jline-2.13-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/jline/jline/2.13/jline-2.13-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -488,7 +488,7 @@
 				<metadata-artifact status="no" details="" size="3811" time="0" location="/Users/Elliott/.ivy2/cache/org.fusesource.jansi/jansi/ivy-1.11.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.11/jansi-1.11.pom"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="1.11" rev-constraint-default="1.11" rev-constraint-dynamic="1.11" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="jansi" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="17705" time="536" location="/Users/Elliott/.ivy2/cache/org.fusesource.jansi/jansi/srcs/jansi-1.11-sources.jar">
+					<artifact name="jansi" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="17705" time="0" location="/Users/Elliott/.ivy2/cache/org.fusesource.jansi/jansi/srcs/jansi-1.11-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.11/jansi-1.11-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -499,7 +499,7 @@
 				<metadata-artifact status="no" details="" size="1475" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/collections/ivy-0.13.13.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/collections/0.13.13/ivys/ivy.xml"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.13.13" rev-constraint-default="0.13.13" rev-constraint-dynamic="0.13.13" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="collections" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="28496" time="2154" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/collections/srcs/collections-0.13.13-sources.jar">
+					<artifact name="collections" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="28496" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/collections/srcs/collections-0.13.13-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/collections/0.13.13/srcs/collections-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -510,7 +510,7 @@
 				<metadata-artifact status="no" details="" size="1892" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/classpath/ivy-0.13.13.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/classpath/0.13.13/ivys/ivy.xml"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.13.13" rev-constraint-default="0.13.13" rev-constraint-dynamic="0.13.13" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="classpath" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="13491" time="2091" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/classpath/srcs/classpath-0.13.13-sources.jar">
+					<artifact name="classpath" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="13491" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/classpath/srcs/classpath-0.13.13-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/classpath/0.13.13/srcs/classpath-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -522,7 +522,7 @@
 				<metadata-artifact status="no" details="" size="2381" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/launcher-interface/ivy-1.0.0-M1.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/org/scala-sbt/launcher-interface/1.0.0-M1/launcher-interface-1.0.0-M1.pom"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="1.0.0-M1" rev-constraint-default="1.0.0-M1" rev-constraint-dynamic="1.0.0-M1" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="launcher-interface" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="10617" time="100" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/launcher-interface/srcs/launcher-interface-1.0.0-M1-sources.jar">
+					<artifact name="launcher-interface" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="10617" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/launcher-interface/srcs/launcher-interface-1.0.0-M1-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-sbt/launcher-interface/1.0.0-M1/launcher-interface-1.0.0-M1-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -533,7 +533,7 @@
 				<metadata-artifact status="no" details="" size="1636" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/io/ivy-0.13.13.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/io/0.13.13/ivys/ivy.xml"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.13.13" rev-constraint-default="0.13.13" rev-constraint-dynamic="0.13.13" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="io" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="26970" time="2437" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/io/srcs/io-0.13.13-sources.jar">
+					<artifact name="io" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="26970" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/io/srcs/io-0.13.13-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/io/0.13.13/srcs/io-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -544,7 +544,7 @@
 				<metadata-artifact status="no" details="" size="1179" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/control/ivy-0.13.13.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/control/0.13.13/ivys/ivy.xml"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.13.13" rev-constraint-default="0.13.13" rev-constraint-dynamic="0.13.13" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="control" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="3200" time="2030" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/control/srcs/control-0.13.13-sources.jar">
+					<artifact name="control" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="3200" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/control/srcs/control-0.13.13-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/control/0.13.13/srcs/control-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -555,7 +555,7 @@
 				<metadata-artifact status="no" details="" size="1207" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/interface/ivy-0.13.13.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/interface/0.13.13/ivys/ivy.xml"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="0.13.13" rev-constraint-default="0.13.13" rev-constraint-dynamic="0.13.13" callerrev="1.0" extra-component="xsbti"/>
 				<artifacts>
-					<artifact name="interface" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="16348" time="2090" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/interface/srcs/interface-0.13.13-sources.jar">
+					<artifact name="interface" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="16348" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-sbt/interface/srcs/interface-0.13.13-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/interface/0.13.13/srcs/interface-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -567,7 +567,7 @@
 				<metadata-artifact status="no" details="" size="2809" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-lang/scala-compiler/ivy-2.10.6.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.10.6/scala-compiler-2.10.6.pom"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="2.10.6" rev-constraint-default="2.10.6" rev-constraint-dynamic="2.10.6" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="scala-compiler" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="2059305" time="1070" location="/Users/Elliott/.ivy2/cache/org.scala-lang/scala-compiler/srcs/scala-compiler-2.10.6-sources.jar">
+					<artifact name="scala-compiler" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="2059305" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-lang/scala-compiler/srcs/scala-compiler-2.10.6-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.10.6/scala-compiler-2.10.6-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -579,7 +579,7 @@
 				<metadata-artifact status="no" details="" size="2647" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-lang/scala-reflect/ivy-2.10.6.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.10.6/scala-reflect-2.10.6.pom"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="2.10.6" rev-constraint-default="2.10.6" rev-constraint-dynamic="2.10.6" callerrev="1.0" extra-info.apiURL="http://www.scala-lang.org/api/2.10.6/"/>
 				<artifacts>
-					<artifact name="scala-reflect" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="435463" time="559" location="/Users/Elliott/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.10.6-sources.jar">
+					<artifact name="scala-reflect" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="435463" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.10.6-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.10.6/scala-reflect-2.10.6-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -591,7 +591,7 @@
 				<metadata-artifact status="no" details="" size="2487" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-lang/scala-library/ivy-2.10.6.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.10.6/scala-library-2.10.6.pom"/>
 				<caller organisation="default" name="weiboscraping$sources_2.10" conf="default" rev="2.10.6" rev-constraint-default="2.10.6" rev-constraint-dynamic="2.10.6" callerrev="1.0" extra-info.apiURL="http://www.scala-lang.org/api/2.10.6/"/>
 				<artifacts>
-					<artifact name="scala-library" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="1065535" time="939" location="/Users/Elliott/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.10.6-sources.jar">
+					<artifact name="scala-library" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="1065535" time="0" location="/Users/Elliott/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.10.6-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.10.6/scala-library-2.10.6-sources.jar"/>
 					</artifact>
 				</artifacts>

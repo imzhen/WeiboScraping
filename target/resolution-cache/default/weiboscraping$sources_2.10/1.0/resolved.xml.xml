@@ -4,7 +4,7 @@
 		module="weiboscraping$sources_2.10"
 		revision="1.0"
 		status="integration"
-		publication="20161227143245"
+		publication="20161227213607"
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>

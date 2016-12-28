@@ -6074,7 +6074,7 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.6!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 1510ms :: artifacts dl 27ms
+[debug] :: resolution report :: resolve 1599ms :: artifacts dl 47ms
 [debug] 	report for default#weiboscraping-build;0.1-SNAPSHOT compile produced in /Users/Elliott/Programming/WorkSpace/IntelliJ/WeiboScraping/project/target/resolution-cache/reports/default-weiboscraping-build-compile.xml
 [debug] 	report for default#weiboscraping-build;0.1-SNAPSHOT runtime produced in /Users/Elliott/Programming/WorkSpace/IntelliJ/WeiboScraping/project/target/resolution-cache/reports/default-weiboscraping-build-runtime.xml
 [debug] 	report for default#weiboscraping-build;0.1-SNAPSHOT test produced in /Users/Elliott/Programming/WorkSpace/IntelliJ/WeiboScraping/project/target/resolution-cache/reports/default-weiboscraping-build-test.xml
@@ -6088,5 +6088,5 @@
 [debug] 	report for default#weiboscraping-build;0.1-SNAPSHOT docs produced in /Users/Elliott/Programming/WorkSpace/IntelliJ/WeiboScraping/project/target/resolution-cache/reports/default-weiboscraping-build-docs.xml
 [debug] 	report for default#weiboscraping-build;0.1-SNAPSHOT pom produced in /Users/Elliott/Programming/WorkSpace/IntelliJ/WeiboScraping/project/target/resolution-cache/reports/default-weiboscraping-build-pom.xml
 [debug] 	report for default#weiboscraping-build;0.1-SNAPSHOT scala-tool produced in /Users/Elliott/Programming/WorkSpace/IntelliJ/WeiboScraping/project/target/resolution-cache/reports/default-weiboscraping-build-scala-tool.xml
-[debug] 	resolve done (1510ms resolve - 27ms download)
+[debug] 	resolve done (1599ms resolve - 47ms download)
 [info] Done updating.
