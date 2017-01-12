@@ -1774,9 +1774,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.13!apply-macro.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar
-[debug] :: resolution report :: resolve 914ms :: artifacts dl 22ms
+[debug] :: resolution report :: resolve 727ms :: artifacts dl 20ms
 [debug] 	report for default#weiboscraping$sbt_2.10;1.0 default produced in /Users/Elliott/Programming/WorkSpace/IntelliJ/WeiboScraping/target/resolution-cache/reports/default-weiboscraping$sbt_2.10-default.xml
-[debug] 	resolve done (914ms resolve - 22ms download)
+[debug] 	resolve done (727ms resolve - 20ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: default#weiboscraping$sources_2.10;1.0
 [debug] 	confs: [default]
@@ -2470,6 +2470,6 @@
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.10.6!scala-compiler.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#interface;0.13.13!interface.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#logging;0.13.13!logging.jar(src)
-[debug] :: resolution report :: resolve 178ms :: artifacts dl 19ms
+[debug] :: resolution report :: resolve 194ms :: artifacts dl 27ms
 [debug] 	report for default#weiboscraping$sources_2.10;1.0 default produced in /Users/Elliott/Programming/WorkSpace/IntelliJ/WeiboScraping/target/resolution-cache/reports/default-weiboscraping$sources_2.10-default.xml
-[debug] 	resolve done (178ms resolve - 19ms download)
+[debug] 	resolve done (194ms resolve - 27ms download)

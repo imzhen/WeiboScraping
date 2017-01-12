@@ -4,15 +4,16 @@ version := "1.0"
 
 scalaVersion := "2.11.8"
 
-val sprayVersion = "1.3+"
 val akkaVersion = "2.4+"
+val akkaHttpVersion = "10.0.1"
 
 libraryDependencies ++= {
   Seq(
-    "org.jsoup" % "jsoup" % "1.8+",
     "org.scalaj" %% "scalaj-http" % "2.3.0",
-    "io.spray" %% "spray-client" % sprayVersion,
-    "io.spray" %% "spray-json" % sprayVersion,
+    "com.typesafe.akka" %% "akka-stream" % akkaVersion,
+    "com.typesafe.akka" %% "akka-http-core" % akkaHttpVersion,
+    "com.typesafe.akka" %% "akka-http" % akkaHttpVersion,
+    "com.typesafe.akka" %% "akka-http-spray-json" % akkaHttpVersion,
     "com.typesafe.akka" %% "akka-actor" % akkaVersion
   )
 }

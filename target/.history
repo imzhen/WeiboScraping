@@ -1,0 +1,4 @@
+run
+sbt compile
+compile
+console
