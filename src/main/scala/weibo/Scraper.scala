@@ -9,7 +9,6 @@ import akka.actor._
 class Scraper extends Actor with ActorLogging {
 
 
-
   def receive = ???
 }
 
