@@ -4,7 +4,15 @@
 
 package weibo
 
+import akka.actor._
+import scala.concurrent.duration._
+import scala.concurrent.ExecutionContext.Implicits.global
+
 object Main extends App {
-  val tester: Login = new Login("imzhenr@gmail.com", "910808pps")
-  tester.login()
+  val system = ActorSystem("WeiboScraping")
+  val login = system.actorOf(Props(new Login("imzhenr@gmail.com", "910808pps")))
+  login ! Login.LoggingIn
+  system.scheduler.scheduleOnce(5.seconds) {
+    system.terminate()
+  }
 }
